@@ -4,7 +4,7 @@ Este projeto contém as classes de modelo (`model`) para representar um sistema 
 
 ## Pacote
 
-- **model** → contém as classes:
+- **model** - contém as classes:
     - `Avaliacao` : representa uma avaliação feita por um cliente, com nota, comentário e data.
     - `Categoria` : representa a categoria de um restaurante (ex.: pizzaria, comida japonesa, etc.).
     - `Prato` : representa um prato do cardápio, com nome, descrição e preço.
