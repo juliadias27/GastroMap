@@ -23,4 +23,7 @@ Abra o projeto em sua IDE Java (ex.: Eclipse, IntelliJ, VS Code) e navegue pelo 
 Não há interface gráfica nem execução de programa, apenas a modelagem das classes.
 
 ## 👤 Autor
-Maria Eduarda, Maria Fernanda, Maria Clara, Júlia, Geovana
+
+Geovana Rodrigues Paes Landri , Júlia Dias Mendes, Maria Clara Borges Grippe, Maria Eduarda Zinatto de Siqueira, Maria Fernanda Vila Pestilo 
+
+
