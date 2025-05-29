@@ -21,3 +21,6 @@ Cada classe possui:
 
 Abra o projeto em sua IDE Java (ex.: Eclipse, IntelliJ, VS Code) e navegue pelo pacote `model` para visualizar as classes.  
 Não há interface gráfica nem execução de programa, apenas a modelagem das classes.
+
+## 👤 Autor
+Maria Eduarda, Maria Fernanda, Maria Clara, Júlia, Geovana
